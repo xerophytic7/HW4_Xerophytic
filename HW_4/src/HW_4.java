@@ -7,6 +7,7 @@ import javax.swing.table.DefaultTableModel;
 
 public class HW_4 extends JFrame{
 
+	
 	private JLabel label1, label2, label3, label4, label5, label6, label7;
 	private JTextField tf1, tf2, tf3, tf4, tf5, tf6, tf7;
 	private JButton b1, b2, b3, b4;

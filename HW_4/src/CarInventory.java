@@ -76,7 +76,6 @@ import com.mysql.jdbc.StringUtils;
 
 public class CarInventory 
 {
-	
 	public Object[][] getTable0() throws SQLException,IllegalAccessException, InstantiationException 
 	{
 	
